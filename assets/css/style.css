@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background-color: grey;
+}
+
+.img-thumbnail{
+  display:inline-block;
+  width : 300px;
+  margin:2px 0;
